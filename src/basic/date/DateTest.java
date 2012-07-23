@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 
 /**
  * utf -8
- * @description: Êä³öµ±Ç°Ê±¼ä
+ * @description: ï¿½ï¿½ï¿½ï¿½ï¿½Ç°Ê±ï¿½ï¿½
  * @package: basic.date
  * @filename: Date.java
  * @author: wangshengzhong
@@ -19,7 +19,7 @@ public class DateTest {
 	public static void main(String[] args) {
 
 		/**
-		 * ÕâÀïµÄDateÊÇjava.util.Date£¬ÕâÀïÒª×¢Òâ£¬ÓÐºÃ¼¸¸ö°üÖÐ¶¼ÓÐDate
+		 * ï¿½ï¿½ï¿½ï¿½ï¿½Dateï¿½ï¿½java.util.Dateï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Òª×¢ï¿½â£¬ï¿½ÐºÃ¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ð¶ï¿½ï¿½ï¿½Date
 		 */
 		java.util.Date date = new java.util.Date();
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
