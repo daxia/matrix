@@ -1,0 +1,13 @@
+package basic.packagetest;
+
+public class ImportTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
