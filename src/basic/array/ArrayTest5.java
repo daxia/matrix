@@ -1,15 +1,9 @@
 package basic.array;
 
-/**
- * 
- * @description: 可变参数列表 
- *
- * @package:  basic.array
- * @filename: ArrayTest5.java
- * @author:   wangshengzhong
- * @ctime:    2012-7-15
- * @version:  v1.0
- */
+//practice18
+//object array
+// 可变参数列表 
+
 public class ArrayTest5 {
 
 	public static void printArray(Object[] args){

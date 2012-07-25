@@ -1,15 +1,8 @@
 package basic.array;
 
-/**
- * 
- * @description:  数组的可变参数 
- *
- * @package:  basic.array
- * @filename: ArrayTest6.java
- * @author:   wangshengzhong
- * @ctime:    2012-7-15
- * @version:  v1.0
- */
+
+//数组的可变参数 
+
 public class ArrayTest6 {
 
 	//注意这个参数
@@ -19,9 +12,7 @@ public class ArrayTest6 {
 		}
 		System.out.println();
 	}
-	/**
-	 * @param args
-	 */
+
 	public static void main(String[] args) {
 		// 可变参数
 		printArray(new Integer(5), new Float(2.2), "one");
