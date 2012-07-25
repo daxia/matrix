@@ -1,4 +1,4 @@
-package think_in_java_E4._03_initialization.practices;
+package think_in_java_E4.chapter03_initialization.practices;
 
 //practice5,practice6
 //reloading
