@@ -5,8 +5,11 @@ public class Test {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		int i = 0;
+		//标准类库lang中System
+		System.out.println(System.getProperties().getClass());
+		System.out.println();
 	}
 
 }
