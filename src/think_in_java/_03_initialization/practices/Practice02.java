@@ -1,4 +1,4 @@
-package think_in_java._03_initialization;
+package think_in_java._03_initialization.practices;
 
 // practice2
 //the difference from String define

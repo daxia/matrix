@@ -1,4 +1,4 @@
-package think_in_java._02_object;
+package think_in_java._02_object.practices;
 
 //static ¾²Ì¬
 public class Practice6 {
