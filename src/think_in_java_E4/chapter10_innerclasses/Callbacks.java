@@ -41,6 +41,7 @@ class Callee2 extends MyIncrement {
 		public void increment() {
 			//special out-class method, 
 			//otherwise you'd get an  infinite recursion
+			System.out.println(Callee2.this.getClass().toString());
 			Callee2.this.increment();
 		}
 	}
