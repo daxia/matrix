@@ -1,4 +1,4 @@
-package designpattern.factory;
+package designpatterns.factory;
 // factory design pattern
 // our codes(main)---factory----service
 

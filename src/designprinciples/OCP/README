@@ -1,0 +1,8 @@
+OCP(Open-Close Principle)
+
+open for expand,  close for update,
+开-闭原则
+
+核心：对扩展开放，对修改关闭
+
+使用接口，然后通过实现这个接口，就可以随意扩展，并且对其他实现接口的类无直接影响
