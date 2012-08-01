@@ -1,4 +1,4 @@
-package chapter03_initialization;
+package chapter05_initialization;
 
 //static test
 public class TestStatic {

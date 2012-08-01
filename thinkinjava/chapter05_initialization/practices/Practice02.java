@@ -1,4 +1,4 @@
-package chapter03_initialization.practices;
+package chapter05_initialization.practices;
 
 // practice2
 //the difference from String define

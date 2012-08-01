@@ -1,4 +1,4 @@
-package chapter03_initialization.practices;
+package chapter05_initialization.practices;
 
 //practice10,11
 //gc(), finalize()

@@ -1,4 +1,4 @@
-package chapter03_initialization.practices;
+package chapter05_initialization.practices;
 
 //java编程思想 第五章  练习 17,18,
 //测试结果：只定义类数组的变量，而未实际创造数组对象，该对象的类不能初始化 
