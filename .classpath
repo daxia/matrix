@@ -4,6 +4,8 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="useful"/>
 	<classpathentry kind="src" path="others"/>
+	<classpathentry kind="src" path="interview"/>
+	<classpathentry kind="src" path="thinkinjava"/>
 	<classpathentry kind="lib" path="E:/java插件/javassist.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
