@@ -1,6 +1,7 @@
 package chpater18_io;
 
 import java.io.File;
+import java.io.FilenameFilter;
 import java.util.Arrays;
 import java.util.regex.Pattern;
 
@@ -29,7 +30,7 @@ public class DirList {
 
 }
 
-class DirFilter{
+class DirFilter implements FilenameFilter{
 	private Pattern pattern;
 	public DirFilter(String regex){
 		pattern = Pattern.compile(regex);
