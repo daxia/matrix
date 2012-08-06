@@ -30,7 +30,7 @@ public final class Directory {
     public Iterator<File> iterator() {
       return files.iterator();
     }
-    void addAll(TreeInfo other) {
+    public void addAll(TreeInfo other) {
       files.addAll(other.files);
       dirs.addAll(other.dirs);
     }
